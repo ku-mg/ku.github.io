@@ -1,0 +1,30 @@
+html {
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif
+
+}
+h1 {
+    font-size:50px
+}
+html {
+    background-color: #e0ffff;
+}
+body {
+    width: 800px;
+    margin:o auto;
+    background-color:#7aff7a;
+    padding: 0 5px 5px 5px;
+    border:10px #38ff9b;
+}
+img {
+    display: block;
+    margin: 0 auto;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: black;
+  }
+body {
+    margin:auto
+}
